@@ -1,0 +1,19 @@
+.changeBox {
+  background-color: white;
+  border-radius: 8px;
+}
+.row {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+#range {
+  width: 210px;
+  /* -webkit-appearance:none;
+   
+   background:#0a85ff;
+   
+   outline:none; */
+}
